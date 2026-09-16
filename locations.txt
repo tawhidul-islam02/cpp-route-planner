@@ -1,0 +1,11 @@
+Regina Moose_Jaw 72
+Regina Saskatoon 258
+Regina Yorkton 189
+Moose_Jaw Swift_Current 174
+Moose_Jaw Saskatoon 224
+Saskatoon North_Battleford 138
+Saskatoon Prince_Albert 142
+Yorkton Saskatoon 329
+Yorkton Prince_Albert 306
+Prince_Albert North_Battleford 199
+Swift_Current Medicine_Hat 223
